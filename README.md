@@ -223,6 +223,18 @@ Please refer to the README in each directory for more details.
 </td>
 <td>
 
+![dial](./images/dial.webp)
+
+[Gboard ダイヤルバージョン](./mozc-dial/README_ja.md)<br>
+[Gboard double sided version](./mozc-dial)
+
+まるくおさめました。
+
+- [Promotional video](https://youtu.be/BgdWyD0cBx4)
+- [Announce](https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2025)
+- Release date: Oct 1, 2025
+- Source: [/mozc-dial](./mozc-dial)
+
 </td>
 </tr>
 </table>
